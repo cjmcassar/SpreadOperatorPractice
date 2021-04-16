@@ -1,0 +1,2 @@
+# SpreadOperatorPractice
+Created with CodeSandbox
